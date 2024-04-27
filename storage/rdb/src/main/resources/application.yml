@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: rdb
+  jpa:
+    open-in-view: false
+
+  h2:
+    console:
+      enabled: true
