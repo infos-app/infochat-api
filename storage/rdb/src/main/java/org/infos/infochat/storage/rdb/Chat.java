@@ -1,4 +1,4 @@
-package io.sween.noname.storage.rdb;
+package org.infos.infochat.storage.rdb;
 
 
 import jakarta.persistence.Entity;

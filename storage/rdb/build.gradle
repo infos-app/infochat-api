@@ -4,13 +4,6 @@ plugins {
     id 'io.spring.dependency-management'
 }
 
-group = 'io.sween.noname.storage'
-version = '0.0.1-SNAPSHOT'
-
-java {
-    sourceCompatibility = '21'
-}
-
 configurations {
     compileOnly {
         extendsFrom annotationProcessor

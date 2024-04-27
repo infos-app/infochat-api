@@ -1,11 +1,11 @@
-package io.sween.noname
+package org.infos.infochat
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-open class NonameApplication
+class InfochatApplication
 
 fun main(args: Array<String>) {
-    runApplication<NonameApplication>(*args)
+    runApplication<InfochatApplication>(*args)
 }

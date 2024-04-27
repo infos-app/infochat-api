@@ -1,4 +1,4 @@
-rootProject.name = "noname"
+rootProject.name = "infochat"
 
 include("runner", "storage:rdb", "core:domain")
 
